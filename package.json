@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_kubernetes_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshkumaravel/nodejs_kubernetes_docker.git"
+  },
+  "author": "RAJESH K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajeshkumaravel/nodejs_kubernetes_docker/issues"
+  },
+  "homepage": "https://github.com/rajeshkumaravel/nodejs_kubernetes_docker#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}

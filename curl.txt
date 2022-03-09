@@ -1,0 +1,11 @@
+curl --location --request POST 'http://localhost:3000/login' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "user": "user",
+    "password": "password"
+}'
+
+
+
+curl --location --request GET 'http://localhost:3000/'
+
